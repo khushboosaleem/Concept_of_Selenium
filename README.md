@@ -13,7 +13,7 @@ The notebooks cover a range of topics, including handling static and dynamic dro
 4. Open and run the Jupyter notebooks to explore the examples.
 
 ## Requirements
-- Python 3.x
+- Python 
 - Jupyter Notebook
 - Selenium WebDriver
 - Web browser driver (e.g., ChromeDriver for Google Chrome)
